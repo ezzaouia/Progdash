@@ -1,0 +1,4 @@
+{
+  "/statistics/area/:id/groups": "/groups",
+  "/statistics/area/:areaId\\?groupId=:id": "/groupIds/:id"
+}
